@@ -1,4 +1,4 @@
-module bitbucket.org/thebunnybank/service-common
+module github.com/maeglindeveloper/gocommon
 
 require (
 	github.com/Shopify/sarama v1.17.0
@@ -34,6 +34,6 @@ require (
 	github.com/stretchr/testify v1.2.2 // indirect
 	github.com/tidwall/pretty v0.0.0-20180105212114-65a9db5fad51 // indirect
 	golang.org/x/crypto v0.0.0-20180723164146-c126467f60eb // indirect
-	golang.org/x/net v0.0.0-20180719180050-a680a1efc54d // indirect
+	golang.org/x/net v0.0.0-20180724234803-3673e40ba225 // indirect
 	golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f // indirect
 )
